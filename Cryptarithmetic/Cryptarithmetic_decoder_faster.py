@@ -1,6 +1,3 @@
-# solve: runs through all possible combinations testing each for valid solution
-# fill_in: creates a new formula replacing letters with numbers
-# valid: tests out filled in string
 
 import re
 import string
